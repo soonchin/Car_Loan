@@ -12,6 +12,7 @@ class MainActivity : AppCompatActivity() {
 
         btnCalculate.setOnClickListener(){
             //bhbhbh
+            //ijiji
             calLoan()
         }
     }
